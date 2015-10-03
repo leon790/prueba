@@ -1,5 +1,6 @@
 
 #include<iostream> 
+// No manches no sabes indentar
 init main(){
   int a = 4;
   newInit();  
