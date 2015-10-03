@@ -9,6 +9,6 @@ count= 5+a;
 }
 catc(Exception e)
 {
-  toast.maketext(getapplicationcontext, "no funciono el try", toast.LENG_SHORT).show;
+  toast.maketext(getApplicationContext, "no funciono el try", Toast.LENG_SHORT).show;
 }
 }
