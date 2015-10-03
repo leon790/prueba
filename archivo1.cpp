@@ -1,6 +1,6 @@
 #include<iostream> 
 init main(){
-  int a = 4
+  int a = 4;
   
   try
   {
