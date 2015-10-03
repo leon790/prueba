@@ -1,7 +1,8 @@
+
 #include<iostream> 
 init main(){
   int a = 4;
-  
+  newInit();  
   try
   {
 count= 5+a;
